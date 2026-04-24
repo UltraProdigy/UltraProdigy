@@ -16,10 +16,23 @@ Here are some ideas to get you started:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=UltraProdigy&show_icons=true&theme=transparent&show=reviews" alt="UltraProdigy's GitHub Stats" />
-
-<br><br>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=UltraProdigy&theme=github-compact&hide_border=true" alt="UltraProdigy's Contribution Graph" />
+<table>
+  <tr>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=UltraProdigy&show_icons=true&theme=transparent&show=reviews"
+        alt="UltraProdigy's GitHub Stats"
+        width="470"
+      />
+    </td>
+    <td align="center" width="50%">
+      <img
+        src="https://github-readme-activity-graph.vercel.app/graph?username=UltraProdigy&theme=github-compact&hide_border=true&height=220"
+        alt="UltraProdigy's Contribution Graph"
+        width="470"
+      />
+    </td>
+  </tr>
+</table>
 
 </div>
