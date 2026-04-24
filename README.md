@@ -14,4 +14,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![UltraProdigy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UltraProdigy&show_icons=true&theme=transparent&show=reviews)
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=UltraProdigy&show_icons=true&theme=transparent&show=reviews" alt="UltraProdigy's GitHub Stats" />
+
+<br><br>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=UltraProdigy&theme=github-compact&hide_border=true" alt="UltraProdigy's Contribution Graph" />
+
+</div>
