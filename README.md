@@ -17,14 +17,14 @@ Here are some ideas to get you started:
 <div align="center">
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=UltraProdigy&show_icons=true&theme=transparent&show=reviews"
+  src="https://github-readme-stats.vercel.app/api?username=UltraProdigy&show_icons=true&theme=transparent&show=reviews&hide_title=true"
   alt="UltraProdigy's GitHub Stats"
-  width="49%"
+  height="170"
 />
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=UltraProdigy&layout=compact&theme=transparent&langs_count=10&card_width=445"
   alt="UltraProdigy's Top Languages"
-  width="49%"
+  height="170"
 />
 
 </div>
