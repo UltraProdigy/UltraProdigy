@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![UltraProdigy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UltraProdigy&show_icons=true&theme=transparent&show=reviews,prs_merged,prs_merged_percentage)
+![UltraProdigy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=UltraProdigy&show_icons=true&theme=transparent&show=reviews)
