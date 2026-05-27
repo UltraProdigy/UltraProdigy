@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">UltraProdigy's GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 907, Total PRs: 672, Total PRs Reviewed: 1107, Total Issues: 30, Contributed to (last year): 175</desc>
+        <desc id="descId">Total Stars Earned: 0, Total Commits  (last year) : 907, Total PRs: 672, Total PRs Reviewed: 1112, Total Issues: 30, Contributed to (last year): 175</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
