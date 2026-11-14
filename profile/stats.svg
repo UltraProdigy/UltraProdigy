@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">UltraProdigy&#39;s GitHub Stats, Rank: B+</title>
-        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 1980, Total PRs: 826, Total PRs Reviewed: 1503, Total Issues: 59, Contributed to (last year): 223</desc>
+        <desc id="descId">Total Stars Earned: 2, Total Commits  (last year) : 1975, Total PRs: 827, Total PRs Reviewed: 1506, Total Issues: 59, Contributed to (last year): 223</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 95.27895226463372;
+        stroke-dashoffset: 95.28135741013786;
       }
     }
   
@@ -199,7 +199,7 @@
         x="224.01"
         y="12.5"
         data-testid="prs"
-      >826</text>
+      >827</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
